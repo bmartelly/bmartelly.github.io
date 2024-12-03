@@ -1,0 +1,39 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #d32a24
+    }
+
+    h2{
+        font-size: 25px;
+        line-height : 1;
+        text-align: left;
+        color: #3361ff
+        }
+    
+        p{
+        font-size: 20px;
+        text-align: left;
+        font-family: Helvetica, sans-serif;
+        margin: px:
+        }
+    
+    body {
+    background-color: #97c097;
+    }
+
+    img {
+        width : vw15;
+        height : 15vh;
+        max-width : 100px;
+        max-height : 75px;
+        }
+
+    <div>
+        <div>
+            <img src="url" />
+        </div>
+        <div>
+            Text content goes here
+        </div>
+    </div>
